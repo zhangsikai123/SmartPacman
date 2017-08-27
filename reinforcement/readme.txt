@@ -1,0 +1,1 @@
+Supervised learning - reinforcement learning - Q learning
